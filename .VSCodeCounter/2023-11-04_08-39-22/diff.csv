@@ -1,0 +1,12 @@
+"filename", "language", "PHP", "HTML", "comment", "blank", "total"
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_BajaDep.php", "PHP", 1, 0, 2, -3, 0
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_Empleados.php", "PHP", 10, 0, 0, 5, 15
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_MostrarEmp.php", "PHP", 30, 0, 0, 5, 35
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\DepartamentoBBDD.php", "PHP", 15, 0, 3, 7, 25
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\EmpleadoBBDD.php", "PHP", 50, 0, 0, 6, 56
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\operacionesBBDD.php", "PHP", -1, 0, 0, 1, 0
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Modelo\Empleado.php", "PHP", -1, 0, 0, 1, 0
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\Empleados.php", "PHP", 36, 0, 0, 5, 41
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\ModificarEmp.html", "HTML", 0, -1, 0, 0, -1
+"c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\MostrarEmp.html", "HTML", 0, 40, 2, 12, 54
+"Total", "-", 140, 39, 7, 39, 225

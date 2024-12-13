@@ -1,0 +1,70 @@
+Date : 2023-11-09 09:07:08
+Directory : c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp
+Total : 39 files,  22378 codes, 41 comments, 4648 blanks, all 27067 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| CSS      |          4 |     20,625 |         13 |      4,318 |     24,956 |
+| PHP      |         34 |      1,737 |         28 |        330 |      2,095 |
+| HTML     |          1 |         16 |          0 |          0 |         16 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                     | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                        |         39 |     22,378 |         41 |      4,648 |     27,067 |
+| Controlador                                                                              |         12 |        242 |         13 |         66 |        321 |
+| DAO                                                                                      |          4 |        465 |         14 |        111 |        590 |
+| Modelo                                                                                   |          2 |        160 |          0 |         46 |        206 |
+| Vista                                                                                    |         17 |        886 |          1 |        107 |        994 |
+| css                                                                                      |          4 |     20,625 |         13 |      4,318 |     24,956 |
++------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                 | language | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_AltaDep.php            | PHP      |         23 |          0 |          7 |         30 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_AltaEmp.php            | PHP      |         30 |          0 |          3 |         33 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_BajaDep.php            | PHP      |         17 |          2 |          5 |         24 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_BajaEmp.php            | PHP      |         13 |          0 |          4 |         17 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_Empleados.php          | PHP      |         10 |          0 |          6 |         16 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_EmpleadosCPD.php       | PHP      |         13 |          1 |          6 |         20 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_EmpleadosCompletos.php | PHP      |         12 |          3 |          5 |         20 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_ModificarDep.php       | PHP      |         20 |          0 |          7 |         27 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_ModificarEmp.php       | PHP      |         47 |          3 |         13 |         63 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_MostrarEmp.php         | PHP      |         30 |          0 |          5 |         35 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_login.php              | PHP      |         17 |          0 |          2 |         19 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Controlador\cont_logout.php             | PHP      |         10 |          4 |          3 |         17 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\CredencialesBBDD.php                | PHP      |         29 |          6 |          9 |         44 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\DepartamentoBBDD.php                | PHP      |        143 |          7 |         38 |        188 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\EmpleadoBBDD.php                    | PHP      |        271 |          1 |         61 |        333 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\DAO\operacionesBBDD.php                 | PHP      |         22 |          0 |          3 |         25 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Modelo\Departamento.php                 | PHP      |         28 |          0 |         22 |         50 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Modelo\Empleado.php                     | PHP      |        132 |          0 |         24 |        156 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\AccionExitosa.html                | HTML     |         16 |          0 |          0 |         16 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\AltaDep.php                       | PHP      |         60 |          0 |         10 |         70 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\AltaEmp.php                       | PHP      |        114 |          0 |         18 |        132 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\BajaDep.php                       | PHP      |         42 |          0 |          4 |         46 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\BajaEmp.php                       | PHP      |         42 |          0 |          4 |         46 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\CerrarSesion.php                  | PHP      |         19 |          0 |          0 |         19 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\Empleados.php                     | PHP      |         45 |          0 |          7 |         52 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\EmpleadosCPD.php                  | PHP      |         78 |          0 |         10 |         88 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\EmpleadosCompletos.php            | PHP      |         75 |          1 |          6 |         82 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\GenericErr.php                    | PHP      |         20 |          0 |          0 |         20 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\ModificarDep.php                  | PHP      |         62 |          0 |          9 |         71 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\ModificarEmp.php                  | PHP      |         66 |          0 |         10 |         76 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\MostrarEmp.php                    | PHP      |         51 |          0 |         13 |         64 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\autorizacion.php                  | PHP      |         26 |          0 |          2 |         28 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\index.php                         | PHP      |        113 |          0 |          5 |        118 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\login.php                         | PHP      |         41 |          0 |          9 |         50 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\Vista\loginErr.php                      | PHP      |         16 |          0 |          0 |         16 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\css\bulma-rtl.css                       | CSS      |      9,914 |         11 |      1,926 |     11,851 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\css\bulma-rtl.min.css                   | CSS      |          1 |          0 |          0 |          1 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\css\bulma.min.css                       | CSS      |     10,681 |          2 |      2,385 |     13,068 |
+| c:\Users\Juan\Desktop\2ºDAW\Servidor\ProyectoPhp\css\style.css                           | CSS      |         29 |          0 |          7 |         36 |
+| Total                                                                                    |          |     22,378 |         41 |      4,648 |     27,067 |
++------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
